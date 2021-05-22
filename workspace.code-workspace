@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "../ADA/Clase 1 HTML"
+		},
+		{
+			"path": "../ADA/Clase 3 Practica HTML"
+		},
+		{
+			"path": "../ADA/Clase 4 Introduccion CSS"
+		},
+		{
+			"path": "../ADA/Clase 5 Modelo de Caja"
+		},
+		{
+			"path": "../ADA/Clase 6 Practica CSS"
+		},
+		{
+			"path": "../ADA/Clase 7-8-9 Flexbox"
+		},
+		{
+			"path": "../ADA/Clase GIT"
+		},
+		{
+			"path": "../ADA/carpeta-clase-12"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ada9"
+	}
+}
