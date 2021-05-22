@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 .productos{
     color: red;
 }
 .lista-de-productos{
     background-color: rosybrown;
     font-family: 'Reggae One';
+=======
+.categorias {
+    background-color: rgb(105, 122, 116);
+    font-size: 14px;
+    color: white;
+    width: 60%;
+    text-align: center;
+>>>>>>> fd0ada248f2ffa0e6b14e92d37ed853de6006d19
 }
